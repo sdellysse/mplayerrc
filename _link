@@ -1,2 +1,2 @@
-ln -sf . ~/.mplayer
+ln -sf `pwd`/ ~/.mplayer
 
